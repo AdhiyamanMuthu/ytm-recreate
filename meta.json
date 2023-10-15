@@ -1,0 +1,17 @@
+{
+    "songs" : {
+        "languages":{
+            "language1":{
+                "channel-name": "",
+                "actors":[],
+                "directors":[]
+            }           
+        }
+    },
+    "meditation": {
+        "channels" : []
+    },
+    "lyrical": {
+        "channels" : []
+    }
+}
